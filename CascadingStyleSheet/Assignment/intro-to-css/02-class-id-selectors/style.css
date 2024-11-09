@@ -1,0 +1,22 @@
+.Class1{
+    background-color: #ffcccf;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+#id1 {
+    color: blue; /* Blue text */
+    font-size: 32px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+
+#id2 {
+    background-color: lightgreen; 
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px 0;
+}
