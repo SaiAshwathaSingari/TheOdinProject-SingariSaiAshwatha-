@@ -1,0 +1,13 @@
+.One,
+.Two{
+    font-style: normal;
+    font-size: medium;
+}
+
+.One{
+    color: white;
+    background-color: black;
+}
+.Two{
+    background-color: yellow;
+}
