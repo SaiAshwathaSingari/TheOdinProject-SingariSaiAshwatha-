@@ -9,3 +9,5 @@ https://github.com/SaiAshwathaSingari/TheOdinProject-SingariSaiAshwatha-/tree/2d
 https://github.com/SaiAshwathaSingari/TheOdinProject-SingariSaiAshwatha-/tree/014fa0ac5c2dece97f8ede4d43ba9bc18ffdc80f/CascadingStyleSheet/Block%20and%20Inline/Assignment
 # Flex Box Align Assignment
 https://github.com/SaiAshwathaSingari/TheOdinProject-SingariSaiAshwatha-/tree/b445b429a0e4edebbc4edd2b90d4b5ca3620795a/Flex%20Box/Assignments/flex
+# Flex Box Project
+https://github.com/SaiAshwathaSingari/TheOdinProject-SingariSaiAshwatha-/tree/2b72a4df6e61aafa826f3985b4f6e863286416ba/Project2
